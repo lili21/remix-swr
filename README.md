@@ -6,6 +6,6 @@
 
 - `pnpm install`
 - `pnpm run dev`
-- visit [http://localhost:3000](http://localhost:3000)
+- visit [http://localhost:3000/test](http://localhost:3000/test)
 - open chrome devtools, You will see the error log in the console panel
 
